@@ -2,6 +2,9 @@
 
 - 建立日期：2026-10-02
 - 来源：作者主页 https://sites.google.com/view/agoyal145 （University of Lausanne / Swiss Finance Institute）
+- 本仓库：https://github.com/fundops-notes/amit-goyal-asset-pricing-library （公开）
+- 大体积数据文件走 Git LFS，网页上会显示下载按钮而非直接预览；用 "git clone" 会自动拉取 LFS 内容（需已安装 git-lfs）。
+- 使用 git clone 时若未装 git-lfs，"00_数据集" 下的 zip 与 大 CSV 会是指针文件，请先安装 git-lfs 或从网页直接下载。
 - 全部文件为作者本人公开发布的 PDF 与数据，可自由取用；引用时仍以正式发表版本为准。
 
 ## 目录结构
